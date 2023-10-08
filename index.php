@@ -5,7 +5,7 @@
  * @package Dark Tribe
  * @author Canghai
  * @version 2.5.24
- * @link https://www.misterma.com
+ * @link https://github.com/xiaoliuxing520/DarkTribe.git
  */
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 // 获取元素风格设置
